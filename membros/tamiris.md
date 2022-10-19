@@ -12,4 +12,4 @@ Tenho 18 anos
 
 # Cidade Natal
 
-Osasco - SP
+Osasco-SP
